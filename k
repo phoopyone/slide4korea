@@ -4,7 +4,7 @@ link:"https://www.apkguidemm.net/lee/vids.php?xitem1",
 decc: ""
 },
 {
-title: "Latest Application",
+title: "Latest App",
 img: "https://github.com/phoopyone/porn/raw/main/1665364620778.png",
 link: "https://play.google.com/store/apps/details?id=com.apyar.kallkarandroid",
 decc: "Video Des"
