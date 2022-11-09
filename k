@@ -1,8 +1,4 @@
-[{title:"X Collection",
-img:"https://github.com/phoopyone/porn/raw/main/allsite.png",
-link:"https://www.apkguidemm.net/lee/vids.php?xitem1",
-decc: ""
-},
+[
 {
 title: "Latest App",
 img: "https://github.com/phoopyone/porn/raw/main/1665364620778.png",
