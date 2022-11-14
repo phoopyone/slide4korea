@@ -7,7 +7,7 @@ decc: "Video Des"
 }
 ,{title:"Telegram",
 img:"https://github.com/phoopyone/porn/raw/main/telegram.jpg",
-link:"https://t.me/mmdarktv",
+link:"https://t.me/msubdark",
 decc: ""
 },
 {
