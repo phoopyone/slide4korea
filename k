@@ -3,6 +3,11 @@ img:"https://github.com/phoopyone/porn/raw/main/fblivetwo.png",
 link:"https://play.google.com/store/apps/details?id=com.mmad.kbox",
 decc: ""
 },
+{title:"Football Live App",
+img:"https://github.com/phoopyone/porn/raw/main/wcup.png",
+link:"https://play.google.com/store/apps/details?id=com.mmad.kbox",
+decc: ""
+},
 {
 title: "Latest App",
 img: "https://github.com/phoopyone/porn/raw/main/1665364620778.png",
