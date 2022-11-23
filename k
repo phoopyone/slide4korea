@@ -3,11 +3,6 @@ img:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg12pYyzi1jyv_DaK
 link:"https://play.google.com/store/apps/details?id=com.mmad.kbox",
 decc: ""
 },
-{title:"Football Live App",
-img:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYwS6-SC9tsipo4Hd47B4w_3TBidygx-7wQL5WxtYTDb-vVDqnih8Sg-ZQl223oAtiHrltN9bJ1jj2iSACWKJfCGDYIMCP1Nz1fZkVQI6o9kM6UIlyniHFSHT-9bj78QdyB5hMC4sUFJcCSIjXi5EinHkRKEqPqQu5ocJCL8h-Y-ijAcyFS-M5TBwQ/s320/wcup.png",
-link:"https://play.google.com/store/apps/details?id=com.mmad.kbox",
-decc: ""
-},
 {
 title: "Latest App",
 img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUdf1WUzA7iZiycYEKi6fx9GGf6q2_MGAV8ZgY00_h2ReWiTYvM3J5-xArYJpEJCR5fga6VNhj1bxGIH_GZXBsns8YOMVWtNXNsdE7fwyooWlkXHByGj8Fgl8EhtyPQu40QIZC_ZEN_8HyLy9UhDJEAvZtpB82AnrkFxUTPuVngEvRh5ZB3HusucPU/s320/1665364620778.png",
