@@ -22,7 +22,7 @@ decc: "Video Des"
 {
 title: "star pay mal ok",
 img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEyT_nXidv_sUHh_5HMVXfZqmFyhIRhZd3LllM4rXSKaeKfvtNZ61A3osIfQEgatm48Uxn78QmvSNBuy3sAsH6OdX7jPJDr1NS5D2Hkd7qf8nHkCRsCpHO9IWDLSu5ijD232ayzBMaHqbxtPTuWt8AxfPYNe9cIee_b-4yqBFcI4gGIkJl_D_ITEBD/s320/rate%20(2).png",
-link: "https://apkguidemm.net/",
+link: "https://google.com/",
 decc: "Video Des"
 }
 ]
